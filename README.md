@@ -1,0 +1,3 @@
+# ocean-co2-absorption
+
+The ocean has absorbed 41% of all anthropogenic carbon to date, and this sink is critical for climate change going forward. Monitoring the carbon sink is critical for supporting global-scale management of the climate via managing the atmospheric CO2 concentration, i.e. the UNFCCC Paris Agreement. Ocean data are quite sparse and CO2 in water cannot be directly measured from space, thus intend to use machine learning approaches informed by oceanographic understanding to extrapolate from sparse data to global spatially resolved fields at at least monthly temporal resolution.
