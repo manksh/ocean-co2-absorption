@@ -7,7 +7,7 @@ The ocean has absorbed 41% of all anthropogenic carbon to date, and this sink is
 * preprocess/
 
 ## Data Analysis and Visualization
-* analysis/reading_SOCAT_data_example.ipynb: Example of reading SOCAT data. This notebook downloads data from figshare, extracts the data with xarray, and plots it with cartopy.
+* notebooks/reading_SOCAT_data_example.ipynb: Example of reading SOCAT data. This notebook downloads data from figshare, extracts the data with xarray, and plots it with cartopy.
 
 ## Models
 * model/landschutzer_SOM-FFN/: Landschutzer SOM-FFN neural network model in Matlab.
